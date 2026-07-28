@@ -6,7 +6,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: https://github.com/vipulj-devops/app1-backend-config.git
+    repoURL: https://github.com/vipulj-devops/app1-backend-config1.git
     targetRevision: HEAD
     path: backend 
   destination:
